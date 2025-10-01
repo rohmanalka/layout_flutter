@@ -49,11 +49,24 @@ class MyApp extends StatelessWidget {
       ],
     );
 
+    Widget textSection = Container(
+      padding: const EdgeInsets.all(32),
+      child: const Text(
+        'Nama: Muhammad Rohman Al Kautsar\n'
+        'NIM: 2341760055\n\n'
+        'Pantai Kebo adalah destinasi wisata yang terletak di Desa Ngulungwetan,' 
+        'Kecamatan Munjungan, Kabupaten Trenggalek, Jawa Timur.' 
+        'Pantai ini dikenal karena keindahan alamnya yang asri,' 
+        'menawarkan perpaduan antara hamparan rumput hijau layaknya sabana dan pemandangan laut yang memesona.',
+        softWrap: true,
+      ),
+    );
+
     return MaterialApp(
       title: 'Flutter layout: Muhammad Rohman Al K / 2341760055',
       home: Scaffold(
         appBar: AppBar(title: const Text('Flutter layout demo')),
-        body: Column(children: [titleSection, buttonSection]),
+        body: Column(children: [titleSection, buttonSection, textSection]),
       ),
     );
   }
