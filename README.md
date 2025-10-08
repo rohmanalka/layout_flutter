@@ -1,6 +1,6 @@
 #### Nama: Muhammad Rohman Al Kautsar  
 #### NIM : 2341760055  
-📄 **[Klik di sini untuk melihat laporan lengkap](https://github.com/rohmanalka/layout_flutter/blob/main/Jobsheet5_26_SIB3C_Muhammad%Rohman%Al%Kautsar.pdf)**  
+📄 **[Klik di sini untuk melihat laporan lengkap](https://github.com/rohmanalka/layout_flutter/blob/main/Jobsheet5_26_SIB3C_Muhammad%20Rohman%20Al%20Kautsar.pdf)**  
 
 # 🚀 Layout Flutter App  
 
